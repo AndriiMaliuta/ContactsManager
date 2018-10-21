@@ -2,10 +2,12 @@ package com.beastiehut.cm;
 
 import java.util.List;
 
-public class ContactTest
-{
+public class ContactTest {
+
     public static void main(String[] args) {
+
         ContactFrame cf = new ContactFrame();
+
         cf.setVisible(true);
     }
 }
@@ -59,5 +61,3 @@ public class ContactTest
 //        Contact contact = cm.getContact(cId2);
 //        System.out.println(contact);
 //    }
-
-}
