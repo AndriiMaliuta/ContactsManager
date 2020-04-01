@@ -1,4 +1,4 @@
-package com.beastiehut.cm;
+package com.anma.cm;
 
 import java.awt.Rectangle;
 import java.awt.event.ActionEvent;

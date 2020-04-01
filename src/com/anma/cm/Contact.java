@@ -1,4 +1,4 @@
-package com.beastiehut.cm;
+package com.anma.cm;
 /**
  *   Класс для хранения данных контакта
  */

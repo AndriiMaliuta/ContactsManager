@@ -1,4 +1,4 @@
-package com.beastiehut.cm;
+package com.anma.cm;
 
 import javax.swing.table.AbstractTableModel;
 import java.util.List;

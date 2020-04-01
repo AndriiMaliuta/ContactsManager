@@ -1,4 +1,4 @@
-package com.beastiehut.cm;
+package com.anma.cm;
 
 import java.awt.BorderLayout;
 import java.awt.GridBagConstraints;
